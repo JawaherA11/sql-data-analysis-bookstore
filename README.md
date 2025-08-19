@@ -33,7 +33,7 @@ This project focuses on analyzing an online bookstore dataset to extract actiona
 ---
 
 ## Project Screenshot
-![Project Screenshot](images/dashboard_preview.png)
+![Project Screenshot](dashboard_preview.png)
 
 ---
 
