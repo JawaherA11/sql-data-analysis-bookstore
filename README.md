@@ -38,4 +38,4 @@ This project focuses on analyzing an online bookstore dataset to extract actiona
 ---
 
 ## Outcome
-This project demonstrates the ability to transform raw relational data into meaningful insights, highlighting proficiency in SQL q
+This project demonstrates the ability to transform raw relational data into meaningful insights, highlighting proficiency in SQL querying, data aggregation, and relational database management. It bridges technical database skills with business decision-making capabilities.
